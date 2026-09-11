@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{r}
+library(readr)
+
+df <- read_csv("~/Downloads/dataset_traffic_accident_prediction1.csv")
+
+```

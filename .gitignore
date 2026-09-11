@@ -1,0 +1,12 @@
+# system
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Quarto rendered output
+/experiment.html
+/experiment_files/
+
